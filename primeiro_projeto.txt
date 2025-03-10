@@ -6,3 +6,4 @@ Estou alterando este arquivo só pra ver
 
 Commit 1
 Commit 2
+Commit 3
