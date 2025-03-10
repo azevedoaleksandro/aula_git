@@ -5,8 +5,5 @@ Segunda mudança
 Estou alterando este arquivo só pra ver
 
 Commit 1
-<<<<<<< HEAD
 Commit 2
 Commit 3
-=======
->>>>>>> 0a926dd (Commit 1)
