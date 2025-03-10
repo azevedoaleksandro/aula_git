@@ -6,4 +6,12 @@ Estou alterando este arquivo só pra ver
 
 Commit 1
 Commit 2
+<<<<<<< HEAD
 Commit 3
+=======
+<<<<<<< HEAD
+Commit 3
+=======
+Commit 3
+>>>>>>> 2d0fc2d (Commit 1)
+>>>>>>> acced8f (Commit 1)
